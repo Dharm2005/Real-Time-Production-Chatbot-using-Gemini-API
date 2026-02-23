@@ -188,7 +188,7 @@ GEMINI_API_KEY=your_api_key_here
 ### 1. Clone Repository
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/Dharm2005/Real-Time-Production-Chatbot-using-Gemini-API
 cd career-advisor-chatbot
 ```
 
